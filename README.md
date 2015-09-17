@@ -1,5 +1,5 @@
 
-Palestra sobre FirefoxOS
+Oficina: Desenvolvendo aplicativos para Firefox OS
 ========================
 
 Smartphone de todos, para todos.
